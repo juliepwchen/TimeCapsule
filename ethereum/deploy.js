@@ -11,7 +11,7 @@ const compiledFactory = require('./build/TimeCapsuleFactory.json');
 //- does not require us to host expensive Nodes on our machine
 
 const provider = new HDWalletProvider(
-    'stock someone endless wish list report grocery shop purity awful cram disagree',
+    'xxxxx',
     'https://rinkeby.infura.io/1sShrQjlFt3rxAc7c4Tu'
 );
 
