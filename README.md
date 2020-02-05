@@ -7,8 +7,8 @@
 Environment Setup
 
 1. install MetaMask Wallet Chrome Extension - https://metamask.io/ + create a Wallet account.
-2. go to https://rinkeby.etherscan.io/ - Factory Contract deployed at Address: 0x09FF5BfA0a0dbFDC06aC07c5c6Cd4C34203b7EED
-3. TimeCapsule Tokens created using "fake" Ethers - https://www.rinkeby.io/#faucet.
+2. Factory Contract deployed - search using https://rinkeby.etherscan.io/.
+3. TimeCapsule Tokens created using "fake" Ethers - request "fake" Ethers at https://www.rinkeby.io/#faucet.
 
 Run DApp
 
