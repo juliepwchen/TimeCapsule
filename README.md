@@ -28,10 +28,6 @@ Run DApp
 - Infura Node - https://infura.io/
 - truffle-hdwallet-provider
 
-### Architecture and Design Considerations
-
-### Challenges
-
 ### Screen Shots
 
 1. Contract List (Click on "View Details" button to view details.)
@@ -39,3 +35,7 @@ Run DApp
 
 2. Create a new Contract
 ![alt text](./createLetter.png)
+
+### Architecture and Design Considerations
+
+### Challenges
