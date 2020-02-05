@@ -38,4 +38,6 @@ Run DApp
 
 ### Architecture and Design Considerations
 
+![alt text](./architecture.png)
+
 ### Challenges
